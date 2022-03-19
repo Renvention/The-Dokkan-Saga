@@ -1,0 +1,29 @@
+{
+  "title": "The Dokkan Saga",
+  "description": "This series takes place in a universe where DB characters basically \"equip\" their Dokkan equivalents whenever they want to, allowing for the main cast to have a lot of variety in their fighting styles!",
+  "artist": " Toyotarou",
+  "author": "chankl2",
+  "cover": "https://i.imgur.com/uJYfV76.jpg",
+  "chapters": {
+    "1": {
+      "title": "Goku Wants to be Contested",
+      "volume": "",
+      "last_updated": "1647711553",
+      "groups": {
+        "": [
+          "https://i.imgur.com/AjaViAU.png",
+          "https://i.imgur.com/FQf2xgn.png",
+          "https://i.imgur.com/SfdNYpy.png",
+          "https://i.imgur.com/FaVP96E.png",
+          "https://i.imgur.com/TbThbT5.png",
+          "https://i.imgur.com/PJztiPY.png",
+          "https://i.imgur.com/ptE7AP7.png",
+          "https://i.imgur.com/jmm5nYb.png",
+          "https://i.imgur.com/j95sWrI.png",
+          "https://i.imgur.com/rdbcp2g.png",
+          "https://i.imgur.com/7S3Cd7e.png"
+        ]
+      }
+    }
+  }
+}
